@@ -11,5 +11,9 @@
     "spider"
   ],
   "author": "Yue.",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-spider": "^1.4.1",
+    "yue-redis-handler": "0.0.2"
+  }
 }
